@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Insei/insei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=insei&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
-[![github stats](https://github-readme-stats.vercel.app/api?username=insei)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=insei&rank=-C,-B&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=insei&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
